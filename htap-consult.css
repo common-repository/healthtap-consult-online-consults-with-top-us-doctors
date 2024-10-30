@@ -1,0 +1,604 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500italic,500,700,700italic,900,900italic);
+
+#htapWidgetConsultdoc div,#htapWidgetConsultdoc span,#htapWidgetConsultdoc applet,#htapWidgetConsultdoc object,#htapWidgetConsultdoc iframe,#htapWidgetConsultdoc h1,#htapWidgetConsultdoc h2,#htapWidgetConsultdoc h3,#htapWidgetConsultdoc h4,#htapWidgetConsultdoc h5,#htapWidgetConsultdoc h6,#htapWidgetConsultdoc p,#htapWidgetConsultdoc blockquote,#htapWidgetConsultdoc pre,#htapWidgetConsultdoc a,#htapWidgetConsultdoc abbr,#htapWidgetConsultdoc acronym,#htapWidgetConsultdoc address,#htapWidgetConsultdoc big,#htapWidgetConsultdoc cite,#htapWidgetConsultdoc code,#htapWidgetConsultdoc del,#htapWidgetConsultdoc dfn,#htapWidgetConsultdoc em,#htapWidgetConsultdoc img,#htapWidgetConsultdoc ins,#htapWidgetConsultdoc kbd,#htapWidgetConsultdoc q,#htapWidgetConsultdoc s,#htapWidgetConsultdoc samp,#htapWidgetConsultdoc small,#htapWidgetConsultdoc strike,#htapWidgetConsultdoc strong,#htapWidgetConsultdoc sub,#htapWidgetConsultdoc sup,#htapWidgetConsultdoc tt,#htapWidgetConsultdoc var,#htapWidgetConsultdoc b,#htapWidgetConsultdoc u,#htapWidgetConsultdoc i,#htapWidgetConsultdoc center,#htapWidgetConsultdoc dl,#htapWidgetConsultdoc dt,#htapWidgetConsultdoc dd,#htapWidgetConsultdoc ol,#htapWidgetConsultdoc ul,#htapWidgetConsultdoc li,#htapWidgetConsultdoc fieldset,#htapWidgetConsultdoc form,#htapWidgetConsultdoc label,#htapWidgetConsultdoc legend,#htapWidgetConsultdoc table,#htapWidgetConsultdoc caption,#htapWidgetConsultdoc tbody,#htapWidgetConsultdoc tfoot,#htapWidgetConsultdoc thead,#htapWidgetConsultdoc tr,#htapWidgetConsultdoc th,#htapWidgetConsultdoc td,#htapWidgetConsultdoc article,#htapWidgetConsultdoc aside,#htapWidgetConsultdoc canvas,#htapWidgetConsultdoc details,#htapWidgetConsultdoc embed,#htapWidgetConsultdoc figure,#htapWidgetConsultdoc figcaption,#htapWidgetConsultdoc footer,#htapWidgetConsultdoc header,#htapWidgetConsultdoc hgroup,#htapWidgetConsultdoc menu,#htapWidgetConsultdoc nav,#htapWidgetConsultdoc output,#htapWidgetConsultdoc ruby,#htapWidgetConsultdoc section,#htapWidgetConsultdoc summary,#htapWidgetConsultdoc time,#htapWidgetConsultdoc mark,#htapWidgetConsultdoc audio,#htapWidgetConsultdoc video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    color: #444;
+    -moz-hyphens: none;
+    -webkit-hyphens: none;
+    -ms-hyphens: none;
+    -hyphens: none;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+    border-radius: 0;
+}
+
+#htapWidgetConsultdoc a img {
+    border: none;
+}
+
+#htapWidgetConsultdoc {
+    font-family: "Roboto",sans-serif !important;
+    border: 1px solid #ddd !important;
+    -webkit-border-radius: 5px !important;
+    -moz-border-radius: 5px !important;
+    -ms-border-radius: 5px !important;
+    -o-border-radius: 5px !important;
+    border-radius: 5px !important;
+    background: #fff !important;
+    position: relative !important;
+    text-align: left !important;
+    font-weight: 300 !important;
+    overflow: hidden !important;
+    max-width: 375px !important;
+}
+
+#htapWidgetConsultdoc #HtInboundLinks {
+    padding: 10px !important;
+}
+
+#htapWidgetConsultdoc a {
+    text-decoration: none !important;
+    color: #1fb9b9 !important;
+    margin: 0 !important;
+    font-weight: 400 !important;
+}
+
+#htapWidgetConsultdoc a:hover {
+    text-decoration: none !important;
+    color: #179e86 !important;
+}
+
+#htapWidgetConsultdoc .htapBtn,#htapWidgetConsultdoc a.htapBtn,#htapWidgetConsultdoc .htapBtn:active,#htapWidgetConsultdoc a.htapBtn:active {
+    -webkit-border-radius: 3px !important;
+    -moz-border-radius: 3px !important;
+    -ms-border-radius: 3px !important;
+    -o-border-radius: 3px !important;
+    border-radius: 3px !important;
+    -webkit-box-sizing: border-box !important;
+    -moz-box-sizing: border-box !important;
+    box-sizing: border-box !important;
+    color: #fff !important;
+    cursor: pointer !important;
+    display: block !important;
+    font-size: 18px !important;
+    font-weight: 400 !important;
+    height: 45px !important;
+    padding: 10px !important;
+    text-align: center !important;
+    text-transform: none !important;
+    text-shadow: rgba(17,121,103,0.66) 1px 1px !important,rgba(17,121,103,0.66) 1px 1px 1px !important;
+    text-shadow: rgba(17,121,103,0.66) 1px 1px 1px !important,rgba(17,121,103,0.66) 1px 1px 1px !important;
+    background: #35e2c3 !important;
+}
+
+#htapWidgetConsultdoc .htapBtn:hover,#htapWidgetConsultdoc a.htapBtn:hover {
+    -webkit-border-radius: 3px !important;
+    -moz-border-radius: 3px !important;
+    -ms-border-radius: 3px !important;
+    -o-border-radius: 3px !important;
+    border-radius: 3px !important;
+    background: #1bd5b5 !important;
+    font-size: 18px !important;
+    text-transform: none !important;
+    color: #fff !important;
+}
+
+#htapWidgetConsultdoc .htapBtn:focus,#htapWidgetConsultdoc a.htapBtn:focus {
+    outline: none;
+}
+
+#htapWidgetConsultdoc .htapBtn.grey,#htapWidgetConsultdoc a.htapBtn.grey {
+    text-shadow: #666 1px 1px !important,#666 1px 1px 1p !important x;
+    text-shadow: #666 1px 1px 1p !important x,#666 1px 1px 1p !important x;
+    background-color: #bcbcbc !important;
+}
+
+#htapWidgetConsultdoc .htapBtn.grey:hover,#htapWidgetConsultdoc a.htapBtn.grey:hover {
+    background-color: #999 !important;
+}
+
+#htapWidgetConsultdoc .htapBtn.disabled,#htapWidgetConsultdoc .htapBtn.disabled:hover,#htapWidgetConsultdoc a.htapBtn.disabled,#htapWidgetConsultdoc a.htapBtn.disabled:hover {
+    text-shadow: none !important;
+    background-color: #eaeaea !important;
+    color: #aaa !important;
+    cursor: default !important;
+}
+
+#htapWidgetConsultdoc .htapBtn.wide,#htapWidgetConsultdoc a.htapBtn.wide {
+    width: 80% !important;
+}
+
+#htapWidgetConsultdoc a.htapBtn {
+    color: #fff !important;
+    font-weight: 400 !important;
+}
+
+#htapWidgetConsultdoc a.htapBtn:link,#htapWidgetConsultdoc a.htapBtn:visited,#htapWidgetConsultdoc a.htapBtn:hover,#htapWidgetConsultdoc a.htapBtn:active {
+    color: #fff !important;
+}
+
+#htapWidgetConsultdoc a.htapBtn,#htapWidgetConsultdoc button.htapBtn,#htapWidgetConsultdoc input.htapBtn,#htapWidgetConsultdoc .htapBtn {
+    min-width: 0 !important;
+}
+
+
+#htapWidgetConsultdoc .htapBtn.htapBtn-select-expert,#htapWidgetConsultdoc a.htapBtn.htapBtn-select-expert,#htapWidgetConsultdoc .htapBtn.htapBtn-select-expert:active,#htapWidgetConsultdoc a.htapBtn.htapBtn-select-expert:active {
+    -webkit-border-radius: 3px !important;
+    -moz-border-radius: 3px !important;
+    -ms-border-radius: 3px !important;
+    -o-border-radius: 3px !important;
+    border-radius: 3px !important;
+    -webkit-box-sizing: border-box !important;
+    -moz-box-sizing: border-box !important;
+    box-sizing: border-box !important;
+    color: #35e2c3 !important;
+    border: 1px solid #35e2c3 !important;
+    cursor: pointer !important;
+    display: block !important;
+    font-size: 18px !important;
+    font-weight: 400 !important;
+    height: 45px !important;
+    padding: 10px !important;
+    text-align: center !important;
+    text-transform: none !important;
+    text-shadow: none !important;
+    background: transparent !important;
+}
+
+#htapWidgetConsultdoc .htapBtn.htapBtn-select-expert:hover,#htapWidgetConsultdoc a.htapBtn.htapBtn-select-expert:hover {
+    -webkit-border-radius: 3px !important;
+    -moz-border-radius: 3px !important;
+    -ms-border-radius: 3px !important;
+    -o-border-radius: 3px !important;
+    border-radius: 3px !important;
+    background: transparent !important;
+    font-size: 18px !important;
+    text-transform: none !important;
+    color: #1bd5b5 !important;
+    border: 1px solid #1bd5b5 !important;
+}
+
+#htapWidgetConsultdoc .htapBtn.htapBtn-select-expert.htapSelected,#htapWidgetConsultdoc a.htapBtn.htapBtn-select-expert.htapSelected,#htapWidgetConsultdoc .htapBtn.htapBtn-select-expert.htapSelected:active,#htapWidgetConsultdoc a.htapBtn.htapBtn-select-expert.htapSelected:active {
+    -webkit-border-radius: 3px !important;
+    -moz-border-radius: 3px !important;
+    -ms-border-radius: 3px !important;
+    -o-border-radius: 3px !important;
+    border-radius: 3px !important;
+    -webkit-box-sizing: border-box !important;
+    -moz-box-sizing: border-box !important;
+    box-sizing: border-box !important;
+    color: #fff !important;
+    cursor: pointer !important;
+    display: block !important;
+    font-size: 18px !important;
+    font-weight: 400 !important;
+    height: 45px !important;
+    padding: 10px !important;
+    text-align: center !important;
+    text-transform: none !important;
+    text-shadow: rgba(17,121,103,0.66) 1px 1px !important,rgba(17,121,103,0.66) 1px 1px 1px !important;
+    text-shadow: rgba(17,121,103,0.66) 1px 1px 1px !important,rgba(17,121,103,0.66) 1px 1px 1px !important;
+    background: #35e2c3 !important;
+    
+}
+
+#htapWidgetConsultdoc .htapBtn.htapBtn-select-expert.htapSelected:hover,#htapWidgetConsultdoc .htapBtn.htapBtn-select-expert.htapSelected:hover {
+    -webkit-border-radius: 3px !important;
+    -moz-border-radius: 3px !important;
+    -ms-border-radius: 3px !important;
+    -o-border-radius: 3px !important;
+    border-radius: 3px !important;
+    background: #1bd5b5 !important;
+    font-size: 18px !important;
+    text-transform: none !important;
+    color: #fff !important;
+}
+
+#htapWidgetConsultdoc .htapHeader {    
+    background: #fff !important;
+    z-index: 2 !important;
+    -webkit-border-radius: 4px 4px 0 0 !important;
+    -moz-border-radius: 4px 4px 0 0 !important;
+    -ms-border-radius: 4px 4px 0 0 !important;
+    -o-border-radius: 4px 4px 0 0 !important;
+    border-radius: 4px 4px 0 0 !important;
+    -webkit-box-shadow: 0 0 3px rgba(0,0,0,0.2) !important;
+    -moz-box-shadow: 0 0 3px rgba(0,0,0,0.2) !important;
+    box-shadow: 0 0 3px rgba(0,0,0,0.2) !important;
+    display: block !important;
+    text-align: center !important;
+    border-bottom: 1px solid #ddd !important;
+}
+
+#htapWidgetConsultdoc .htapHeader .htapLogoBg {
+    display: block !important;
+    height: 65px !important;
+    -webkit-border-radius: 3px 3px 0 0 !important;
+    -moz-border-radius: 3px 3px 0 0 !important;
+    -ms-border-radius: 3px 3px 0 0 !important;
+    -o-border-radius: 3px 3px 0 0 !important;
+    border-radius: 3px 3px 0 0 !important;
+    border-bottom: 1px solid #ddd !important;
+    -webkit-box-shadow: 0 0 3px rgba(0,0,0,0.2) !important;
+    -moz-box-shadow: 0 0 3px rgba(0,0,0,0.2) !important;
+    box-shadow: 0 0 3px rgba(0,0,0,0.2) !important;
+    position: relative !important;
+    z-index: 2 !important;
+    background: #f6f6f6 url(assets/ht-logo-circle.png) no-repeat center / 40px auto !important;
+}
+
+#htapWidgetConsultdoc #htapQuestionForm {
+    padding: 10px 10px !important;
+    height: auto !important;
+    width: auto !important;
+    display: block !important;
+}
+
+#htapWidgetConsultdoc .htapHeader #htapQuestionForm {
+    padding: 0 10px !important;
+    height: auto !important;
+    width: auto !important;
+    display: block !important;
+}
+
+#htapWidgetConsultdoc #htapQuestionForm .htapQuestionInputCount {
+    position: relative !important;    
+    text-align: right !important;
+    font-size: 13px !important;
+    font-weight: 400 !important;
+    padding: 3px 20px 1px !important;
+}
+
+#htapWidgetConsultdoc #htapQuestionForm .htapQuestionInputCount .htapUsedChar,#htapWidgetConsultdoc #htapQuestionForm .htapQuestionInputCount .htapTotChar {
+    color: #999 !important;
+}
+
+#htapWidgetConsultdoc #htapQuestionForm textarea {
+    color: #333 !important;
+    border-width: 1px !important;
+    border-style: solid !important;
+    border-color: #ddd !important;
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    box-shadow: none !important;
+    display: block !important;
+    padding: 7px 10px !important;
+    -webkit-border-radius: 5px !important;
+    -moz-border-radius: 5px !important;
+    -ms-border-radius: 5px !important;
+    -o-border-radius: 5px !important;
+    border-radius: 5px !important;
+    font-size: 16px !important;
+    font-weight: 300 !important;
+    height: 80px !important;
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+    resize: none !important;
+    width: 100% !important;
+    -webkit-box-sizing: border-box !important;
+    -moz-box-sizing: border-box !important;
+    box-sizing: border-box !important;
+    padding-bottom: 20px !important;
+}
+
+#htapWidgetConsultdoc #htapQuestionForm #htapAskQuestion {
+    margin: 7px 0 0 !important;
+}
+
+#htapWidgetConsultdoc .htapMainContainer {
+    position: relative !important;
+    z-index: 1 !important;
+    overflow-y: scroll !important;
+}
+
+#htapWidgetConsultdoc .htapMainContainer .htapSeeMore {
+    text-align: center !important;
+    display: block !important;
+    padding: 10px !important;
+    font-size: 12px !important;
+    background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(20%, #ffffff), color-stop(100%, #f7f7f7)) !important;
+    background: -webkit-linear-gradient(#ffffff 20%,#f7f7f7 100%) !important;
+    background: -moz-linear-gradient(#ffffff 20%,#f7f7f7 100%) !important;
+    background: -o-linear-gradient(#ffffff 20%,#f7f7f7 100%) !important;
+    background: linear-gradient(#ffffff 20%,#f7f7f7 100%) !important;
+}
+
+#htapWidgetConsultdoc .htapMainContainer .htapSeeMore:hover {
+    text-decoration: none !important;
+}
+
+#htapWidgetConsultdoc .htapMainContainer .htapSeeMore .seemore {
+    display: inline !important;
+}
+
+#htapWidgetConsultdoc .htapMainContainer .htapSeeMore .loading {
+    display: none !important;
+}
+
+#htapWidgetConsultdoc .htapMainContainer .htapSeeMore.loading .seemore {
+    display: none !important;
+}
+
+#htapWidgetConsultdoc .htapMainContainer .htapSeeMore.loading .loading {
+    display: inline !important;
+}
+
+#htapWidgetConsultdoc .htapMainContainer .htapSpinner {
+    height: 80px !important;
+    background: url(assets/ajax-loader.gif) center no-repeat !important;
+    background-size: 20px !important;
+    text-align: center !important;
+}
+
+#htapWidgetConsultdoc .htapMainContainer .htapWait {
+    display: none !important;
+    border-bottom: 1px solid #ddd !important;
+    padding: 10px 5px !important;
+}
+
+#htapWidgetConsultdoc .htapMainContainer .htapWait .htapOneMoment {
+    padding: 2px 10px !important;
+    font-weight: 300 !important;
+    font-style: italic !important;
+    font-size: 16px !important;
+}
+
+#htapWidgetConsultdoc .htapMainContainer .htapWait .htapOneMomentDescr {
+    font-size: 13px !important;
+    font-style: italic !important;
+    padding: 0 10px !important;
+    color: #888 !important;
+    margin-bottom: 4px !important;
+}
+
+#htapWidgetConsultdoc .htapMainContainer .htapSendAnyway {
+    display: none !important;
+    padding: 10px !important;
+}
+
+
+#htapWidgetConsultdoc .htapFooter {
+    position: relative !important;
+    height: auto !important;
+    border-top: 1px solid #ddd !important;
+    -webkit-box-shadow: 0 0 3px rgba(0,0,0,0.2) !important;
+    -moz-box-shadow: 0 0 3px rgba(0,0,0,0.2) !important;
+    box-shadow: 0 0 3px rgba(0,0,0,0.2) !important;
+    background: #f6f6f6 !important;
+}
+
+#htapWidgetConsultdoc .htapFooter .htapAnswersBy {
+    font-size: 12px !important;
+    line-height: 20px !important;
+    color: #777 !important;
+    font-weight: 300 !important;
+    text-align: center !important;
+    padding: 5px 5px 0 5px !important;
+}
+
+#htapWidgetConsultdoc .htapFooter .htapAnswersBy a {
+    display: inline !important;
+    font-size: 12px !important;
+    color: #777 !important;
+    font-weight: 300 !important;
+}
+
+#htapWidgetConsultdoc .htapFooter .htapFooterLogo {
+    display: block !important;
+    height: 60px !important;
+    background: url(assets/ht-logo.png) no-repeat center !important;
+    background-size: 120px !important;
+}
+
+#htapWidgetConsultdoc #htapEmailInput::-webkit-input-placeholder { font-size: 15px; font-weight: 200; font-family: "Roboto"; }
+#htapWidgetConsultdoc #htapEmailInput::-moz-placeholder { font-size: 15px; font-weight: 200; font-family: "Roboto"; } /* firefox 19+ */
+#htapWidgetConsultdoc #htapEmailInput:-ms-input-placeholder { font-size: 15px; font-weight: 200; font-family: "Roboto"; } /* ie */
+#htapWidgetConsultdoc #htapEmailInput:-moz-placeholder { font-size: 15px; font-weight: 200; font-family: "Roboto"; }
+
+
+
+#htapWidgetConsultdoc #htapEnterEmailLabel {
+    margin: 0 -5px 5px -5px !important;
+    -moz-hyphens: none;
+    -webkit-hyphens: none;
+    font-size: 14px !important;
+}
+
+#htapWidgetConsultdoc .htapMainContainer {
+	margin-top: 0 !important;
+    /*height: 290px !important;*/
+}
+
+#htapWidgetConsultdoc .htapIntroCopy{
+    text-align: center;
+    font-size: 14px;
+    color: #666666;
+}
+
+#htapWidgetConsultdoc #htapEmailInput {
+	margin-top: 5px;
+	margin-bottom: 1px;
+	border-radius: 5px;
+	-webkit-appearance: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	font-size: 15px;
+	font-weight: 300;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;
+	border: solid #ccc 1px;
+	color: #333;
+	font-family: Roboto,sans-serif;
+	width: 100%;
+	min-height: 40px;
+	-webkit-appearance: none;
+	padding-left: 10px;
+}
+
+#htapWidgetConsultdoc .htapRedGlow {
+	box-shadow: 0 0 5px rgba(200, 90, 90, 1) !important;
+	padding: 3px 0px 3px 3px !important;
+	margin: 5px 1px 3px 0px !important;
+	border: 1px solid rgba(200, 90, 90, 1) !important;
+}
+
+#htapWidgetConsultdoc .htapQuestionInputConsult {
+	font-family: "Roboto" !important;
+    font-weight: 300 !important;
+}
+
+#htapWidgetConsultdoc .htapConsultSendForm {
+	position: relative !important;
+	height: auto !important;
+	padding: 0 10px !important;
+	background: #fff !important;
+	z-index: 2 !important;
+	-webkit-border-radius: 4px 4px 0 0 !important;
+	-moz-border-radius: 4px 4px 0 0 !important;
+	-ms-border-radius: 4px 4px 0 0 !important;
+	-o-border-radius: 4px 4px 0 0 !important;
+	border-radius: 4px 4px 0 0 !important;
+	-webkit-box-shadow: 0 0 3px rgba(0,0,0,0.2) !important;
+	-moz-box-shadow: 0 0 3px rgba(0,0,0,0.2) !important;
+	box-shadow: 0 0 3px rgba(0,0,0,0.2) !important;
+	display: block !important;
+	text-align: center !important;
+	border-bottom: 1px solid #ddd !important;
+}
+
+#htapWidgetConsultdoc.htapNarrow .htapConsultSendForm{
+  top: 420px !important;
+
+}
+
+#htapWidgetConsultdoc.htapNarrow .htapMainContainer{
+  height: 270px !important;
+}
+
+
+#htapWidgetConsultdoc a.htapBtn.htapInactive {
+	background-color: #d0d0d0 !important;
+	background: #d0d0d0 !important;
+}
+
+#htapWidgetConsultdoc a.htapBtn.htapInactive:hover {
+	cursor: default !important;
+}
+
+#htapWidgetConsultdoc .htapFormSection {
+	padding-top: 16px;
+}
+
+#htapWidgetConsultdoc .htapFooter:hover {
+	cursor: pointer;
+}
+
+
+/* htapDoctor panel */
+
+#htapWidgetConsultdoc .htapDoctorPanel {
+	font-size: 14px !important;
+	position: relative;
+	padding: 10px 100px 10px 70px;
+	min-height: 50px;
+	padding-top: 5px !important;
+	border-bottom: 1px solid #eeeeee !important;
+}
+
+#htapWidgetConsultdoc .htapDoctorPanel:last-child {
+	border-bottom: 0 !important;
+}
+
+#htapWidgetConsultdoc .htapDoctorPanel .htapStarWrap {
+	white-space: nowrap;
+}
+
+#htapWidgetConsultdoc .htapDoctorPanel .htapFilledStar,#htapWidgetConsultdoc .htapDoctorPanel .htapHalfStar {
+	background: url(assets/filled-star.png) no-repeat center / 16px auto !important;
+  margin-left: 1px !important;
+  display: inline-block !important;
+  height: 16px !important;
+  vertical-align: middle !important;
+  width: 16px !important;
+  padding: 1px !important;
+}
+
+#htapWidgetConsultdoc .htapDoctorPanel .htapHalfStar {
+  background: url(assets/half-star.png) no-repeat center / 16px auto !important;
+}
+
+#htapWidgetConsultdoc .htapDoctorPanel .htapLocationIcon {
+	background: url(assets/location-icon.png) no-repeat center / contain !important;
+	display: inline-block !important;
+	height: 14px !important;
+	width: 10px !important;
+	padding: 1px !important;
+	margin-right: 2px;
+	vertical-align: top !important;
+}
+
+#htapWidgetConsultdoc .htapDoctorPanel .htapBtn.htapBtn-select-expert,#htapWidgetConsultdoc .htapDoctorPanel .htapBtn.htapBtn-select-expert:hover,#htapWidgetConsultdoc .htapDoctorPanel .htapBtn.htapBtn-select-expert:active {
+	position: absolute;
+	top: 40px !important;
+	right: 10px !important;
+	font-size: 16px !important;
+	width: 80px !important;
+	min-width: 80px !important;	
+	height: 35px !important;
+	line-height: 35px !important;	
+	padding: 0 !important;	
+}
+
+#htapWidgetConsultdoc .htapDoctorPanel .htapSpecialty, .htapDoctorPanel .htapPolis {
+	margin-bottom: 5px !important;
+	margin-top: 5px !important;
+}
+
+#htapWidgetConsultdoc .htapDoctorPanel .htapPolis{
+    color: #999999 !important;
+    font-size: 12px !important;
+    line-height: 15px !important
+}
+
+#htapWidgetConsultdoc .htapDoctorPanel .htapAvatar {
+	margin-left: -7px !important;
+	margin-top: -10px !important;
+	position: absolute !important;
+	top: 20px !important;
+	left: 20px !important;
+	width: 45px !important;
+	height: 45px !important;
+	background: no-repeat center / contain;
+  -webkit-border-radius: 50% !important;
+  -moz-border-radius: 50% !important;
+  -ms-border-radius: 50% !important;
+  -o-border-radius: 50% !important;
+  border-radius: 50% !important;
+	
+}
+
+#htapWidgetConsultdoc .htapDoctorPanel .htapAvatar:before{
+  position: absolute;
+  content: '';
+  top: -3px;
+  right: -10px;
+  width: 10px;
+  height: 20px;
+  background: url(assets/caduceus.png) no-repeat center / contain;
+
+}
+
